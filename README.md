@@ -1,6 +1,13 @@
 Assembler to Brainfuck translator
 ======
 
+Running:
+--------
+
+```bash
+cat input.asm | ruby asm_bf.rb > out.bf
+```
+
 Supported:
 ----------
 
